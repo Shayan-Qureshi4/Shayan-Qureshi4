@@ -1,5 +1,5 @@
 # 💫 About Me:
-AI Student | Python,Java,c++ | Machine Learning , Deep Learning , LLM , DSA | Focused on building Generative AI projects.
+AI Student | Python, Java, c++ | Machine Learning , Deep Learning , LLM , DSA | Focused on building Generative AI projects.
 
 
 ## 🌐 Socials:
